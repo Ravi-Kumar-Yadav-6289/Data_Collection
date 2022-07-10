@@ -1,2 +1,2 @@
-# Amazon-Reviews-Extraction
-Script to extract amazon reviews.
+# Web Scraping
+Script to extract data from website.
